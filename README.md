@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+[![j14n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j14ncn&show_icons=true&hide_title=true)](https://github.com/j14ncn)
+
 <!--
 **j14ncn/j14ncn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
